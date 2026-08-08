@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shopwithshyam.com/sitemap.xml
+
+# Disallow admin/private paths
+Disallow: /assets/
+Disallow: /*.json$

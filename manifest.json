@@ -1,0 +1,17 @@
+{
+  "name": "DealHub India",
+  "short_name": "DealHub",
+  "description": "Best Amazon India Deals with Honest Reviews",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://shopwithshyam.com/</loc><priority>1.0</priority><changefreq>daily</changefreq></url>
+
+  <!-- Categories -->
+  <url><loc>https://shopwithshyam.com/categories/kitchen.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/categories/electronics.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/categories/fitness.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+
+  <!-- Products -->
+  <url><loc>https://shopwithshyam.com/products/agaro-air-fryer.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/boat-stone-352.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/prestige-kettle.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/prestige-mixer.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/poco-m7-pro.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/redmi-14c.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/boldfit-band.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/yoga-mat.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/nutripro-mixer-grinder.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/prestige-omega-cookware.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/aquaguard-delight-nxt.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/oneplus-nord-buds-3.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/xiaomi-power-bank-4i.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/boat-wave-call-3.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/amazon-basics-dumbbells.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/boldfit-skipping-rope.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/products/aprodo-gym-gloves.html</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+
+  <!-- Blog & Tools -->
+  <url><loc>https://shopwithshyam.com/blog/how-we-pick-products.html</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/blog/buying-guide.html</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/search.html</loc><priority>0.3</priority><changefreq>monthly</changefreq></url>
+
+  <!-- Static -->
+  <url><loc>https://shopwithshyam.com/about.html</loc><priority>0.4</priority><changefreq>monthly</changefreq></url>
+
+  <!-- Legal -->
+  <url><loc>https://shopwithshyam.com/legal/privacy.html</loc><priority>0.3</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/legal/terms.html</loc><priority>0.3</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://shopwithshyam.com/legal/contact.html</loc><priority>0.3</priority><changefreq>monthly</changefreq></url>
+</urlset>
